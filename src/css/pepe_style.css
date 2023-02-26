@@ -1,0 +1,18 @@
+.container{
+    max-width: 1000px;
+    margin: 15px auto; /*top and bottom 15px gap; other sides auto*/
+    border: 5px solid red;
+    border-radius: 15px;
+    
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.pic1_text{
+    position: relative;
+    margin: 0 40px 20px 40px;
+}
+.pepe {
+    height: 250px;
+    width: 250px;
+}

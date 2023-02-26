@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FU4e9VApbGm1uD10I0N%2Fsource.gif&f=1&nofb=1&ipt=daf03231517191bcfd359af4b3dc55b04139bcdbbb564393f87a735192d60d84&ipo=images');
+}
+
+.box{
+    max-width: 1300px;
+    max-height: 900px;
+    
+    
+    margin: 15px auto; /*top and bottom 15px gap; other sides auto*/
+    border: 5px dashed white;
+    border-radius: 15px;
+
+    background-color: black;
+    color: whitesmoke;
+
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.tvbox > video{
+    width: auto;
+    height: auto;
+    position: relative;
+    margin: 15px;
+
+}
+
+.pepe {
+    height: 250px;
+    width: 250px;
+}
